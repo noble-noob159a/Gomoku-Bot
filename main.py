@@ -14,7 +14,7 @@ if __name__ == '__main__':
         print("Can't preprocessing tab")
         exit(0)
 
-    # GameMode: 0 - REALGAME, (any) - VsFRIEND or yourshelf
+    # GameMode: 0 - REALGAME, (any) - Play with bot
     gameMode = 0
     if gameMode != 0:
         gameMode = 2
